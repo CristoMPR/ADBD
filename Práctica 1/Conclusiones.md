@@ -1,4 +1,5 @@
-Conclusiones
+## Conclusiones 
+
 Ambos artículos tratan el desarrollo de bases de datos así como otros aspectos del trabajo que conlleva la creación y mantenimiento de una base de datos,como por ejemplo el trato con el cliente o aspectos más directamente relacionados con el propio proceso de creación de una base de datos y las capacidades de las personas que llevan a cabo dichas labores.
 
 En conclusión al primer texto se puede extraer que el trabajo que conllevan la administración y el diseño de bases de datos es extremadamente minucioso y detallista hasta el punto de que cualquier error puede resultar en un fallo que perdure de forma indefinida y que cualquier persona pueda reseñar. Se hace hincapié en lo importante que es ser minucioso y para resaltar esto se hace el comentario de que es casi un requisito tener un TOC a la hora de dedicarse a una labor tan precisa. Esto se debe a que es extremadamente importante que tanto la estructura como el contenido tiene que ser lo más concreto posible para evitar posibles confusiones y errores posteriores.
