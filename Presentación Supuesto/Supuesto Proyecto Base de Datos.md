@@ -1,0 +1,10 @@
+# Supuesto del Proyecto de Base de Datos
+## Proyectos de Cooperación al Desarrollo: Agua y Abastecimiento
+
+Un amplio número de organismos se dedican a la definición, desarrollo, financiación y gestión de proyectos relacionados con el saneamiento, tratamiento y abastecimiento de aguas. El planteamiento, ejecución y mantenimiento de estos proyectos genera grandes cantidades de información que continuamente se amplían y actualizan, ya sean la propia documentación generada en antiguos proyectos, información de artículos científicos, o datos que afectan a cada proyecto como factores sociales o económicos entre otros.
+
+El objetivo principal es proveer al técnico responsable de definir el proyecto con el soporte necesario para manejar la información que sea recogida. Los principales datos que se manejan en esta clase de proyectos son el grado de contaminación de las aguas y su composición, la operación y mantenimiento de los sistemas y su ubicación, y los factores socio-económicos asociados a cada proyecto en concreto. Estos factores incluyen aspectos como la participación local, la voluntad de pago de los usuarios y el impacto del sistema elegido sobre el entorno.
+
+Adjuntos al planteamiento del proyecto contamos con diversas fichas con descripciones de diversos métodos y estructuras que son utilizadas con el fin de llevar a cabo labores de extracción y/o recolección de aguas, así como enlaces a diversas fuentes que amplían en gran medida la documentación inicial ya sea con planos, cálculos y métricas de diversos tipos. Además se hace énfasis en que los datos proporcionados en las fichas son una pequeña fracción de toda la información que puede resultar útil y en que el enfoque del proyecto es colaborativo.
+
+Por último hay que destacar la importancia de mantener toda la documentación actualizada con regularidad y que proyectos de este tipo tienen bastante profundidad y requieren de tener en cuenta diversos aspectos técnicos, socioeconómicos, medioambientales, financieros, administrativos y sociales.
