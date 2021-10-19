@@ -26,10 +26,6 @@ ISERT INTO usuarios(nombre, clave) VALUES('Pablo','jfx344')
 
 ;
 
-INSERT INTO usuarios(nombre, clave) VALUES('Pablo','jfx344')
-
-;
-
 INSERT INTO usuarios(nombre, clave) VALUES('Ana','tru3fal')
 
 ;
