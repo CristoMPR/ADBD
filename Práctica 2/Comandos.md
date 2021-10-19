@@ -4,21 +4,6 @@ alter role miusuario with password '123456'
 
 \s
 
-
-CREATE DATABASE pract1
-
-CREATE TABLE USUARIOS (
-
-nombre varchar(30),
-
-clave varchar(10)
-
-)
-
-;
-
-\l
-
 CREATE DATABASE pract1
 
 ;
