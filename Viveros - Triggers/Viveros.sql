@@ -181,8 +181,9 @@ COMMIT;
 -- Data for table `Viveros`.`CLIENTE`
 -- -----------------------------------------------------
 
-INSERT INTO CLIENTE (DNI, Bonificación, Total_mensual, Fecha_ingreso) VALUES ('33333333C', NULL, NULL, NULL);
-INSERT INTO CLIENTE (DNI, Bonificación, Total_mensual, Fecha_ingreso) VALUES ('44444444D', NULL, NULL, NULL);
+INSERT INTO CLIENTE (DNI, Nombre, Apellidos, Correo, Bonificación, Total_mensual, Fecha_ingreso) VALUES ('33333333C', 'Juan', 'Pérez', NULL, NULL, NULL, NULL);
+INSERT INTO CLIENTE (DNI, Nombre, Apellidos, Correo, Bonificación, Total_mensual, Fecha_ingreso) VALUES ('44444444D', 'María', 'González', NULL, NULL, NULL, NULL);
+
 
 COMMIT;
 
