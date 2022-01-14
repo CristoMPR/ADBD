@@ -10,10 +10,11 @@ El objetivo de esta práctica es instalar PostgresSQL y familiarizarse con el us
 ### 2. Resultados obtenidos
 A continuación se muestran una serie de capturas de pantalla en las que se pueden ver los comandos utilizados y los resultados obtenidos:
 
-![](https://drive.google.com/file/uc?export=view&id=1mQ750FFrSEkEDNRaT0YaaGUmTh2E68II/view?usp=sharing)
+![](https://user-images.githubusercontent.com/72441071/149580655-15cbb74c-95c1-4cce-ad18-581333beb349.PNG)
 
-![](https://drive.google.com/file/uc?export=view&id=1v36RbFKv8UZyw4g1wyi7wJSgf1AQpHrv/view?usp=sharing)
+![](https://user-images.githubusercontent.com/72441071/149580722-846dfbc3-45ca-4090-a804-161436691e6b.PNG)
 
-![](https://drive.google.com/file/uc?export=view&id=1vkOu8a1HaiL5gnXE5se4sd3mmAFgB13P/view?usp=sharing)
+![](https://user-images.githubusercontent.com/72441071/149580765-42270245-2bf3-46b1-af20-19b4c7ff9dba.PNG)
+
 
 
