@@ -1,39 +1,19 @@
-alter role miusuario with password '123456'
+# Práctica 2:
+## Introducción a PostgresSQL
 
-\l
+Cristo Manuel Pérez Rodríguez
+(alu0101218007@ull.edu.es)
 
-\s
+### 1. Introducción
+El objetivo de esta práctica es instalar PostgresSQL y familiarizarse con el uso de esta herramienta creando una serie de tablas de pruebas y haciendo inserciones en las mismas.
 
-CREATE DATABASE pract1
+### 2. Resultados obtenidos
+A continuación se muestran una serie de capturas de pantalla en las que se pueden ver los comandos utilizados y los resultados obtenidos:
 
-;
+![](https://drive.google.com/drive/u/0/folders/1_92vN5blE6ZNvCl_EdwQBhF-yKJa5K4b/10.png)
 
-CREATE TABLE usuarios(
+![](https://drive.google.com/drive/u/0/folders/1_92vN5blE6ZNvCl_EdwQBhF-yKJa5K4b/20.png)
 
-nombre varchar(30),
+![](https://drive.google.com/drive/u/0/folders/1_92vN5blE6ZNvCl_EdwQBhF-yKJa5K4b/30.png)
 
-clave varchar(10)
 
-)
-
-;
-
-INSERT INTO usuarios(nombre, clave) VALUES('Isa','asdf')
-
-;
-
-ISERT INTO usuarios(nombre, clave) VALUES('Pablo','jfx344')
-
-;
-
-INSERT INTO usuarios(nombre, clave) VALUES('Ana','tru3fal')
-
-;
-
-SELECT *
-
-FROM usuarios
-
-;
-
-\s
